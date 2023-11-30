@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👩‍💻 [Your Name]'s Profile
+# 👩‍💻 [Rohit]'s Profile
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohitsharma-007&show_icons=true&theme=radical)
 
-</div>
 
 ## 🚀 Skills
 
@@ -27,9 +25,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitsharma-007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Let's Connect!
 
